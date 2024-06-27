@@ -1,4 +1,4 @@
 cskefu/activemq:5.14.3
 cskefu/mysql:5.7
 cskefu/redis:5.0.5
-nginx
+cskefu/contact-center:develop
