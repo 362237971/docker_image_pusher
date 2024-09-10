@@ -2,3 +2,4 @@ cskefu/activemq:5.14.3
 cskefu/mysql:5.7
 cskefu/redis:5.0.5
 cskefu/contact-center:develop
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
