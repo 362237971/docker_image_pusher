@@ -1,3 +1,4 @@
+dockette/jdk8
 flink:1.16.0
 ghcr.io/apache/flink-kubernetes-operator:7fc23a1
 quay.io/jetstack/cert-manager-cainjector:v1.15.3
