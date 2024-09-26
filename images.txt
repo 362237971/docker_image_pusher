@@ -1,3 +1,4 @@
+ghcr.io/apache/flink-kubernetes-operator:17129ff
 dockette/jdk8
 flink:1.16.0
 ghcr.io/apache/flink-kubernetes-operator:7fc23a1
