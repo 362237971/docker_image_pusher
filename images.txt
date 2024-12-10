@@ -1,2 +1,3 @@
+bitnami/spark:3.4.1-debian-11-r88
 curlimages/curl:8.5.0
 ilum/livy-proxy:6.2.0
