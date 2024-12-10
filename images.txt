@@ -1,1 +1,2 @@
+curlimages/curl:8.5.0
 ilum/livy-proxy:6.2.0
