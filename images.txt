@@ -1,3 +1,4 @@
+sasnouskikh/livy:0.8.0-incubating-spark_3.0.1_2.12-hadoop_3.2.0_cloud
 centos:centos7.9.2009
 apache/hadoop:3.3.6
 docker.io/bitnami/spark:3.5.3-debian-12-r1
