@@ -1,1 +1,1 @@
-bitnami/clickhouse-keeper:23.2.4-debian-11-r2
+docker.io/bitnami/clickhouse-keeper:23.2.4-debian-11-r2
